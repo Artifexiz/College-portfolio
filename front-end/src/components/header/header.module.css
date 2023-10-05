@@ -1,0 +1,28 @@
+
+.title{
+    width: 589px;
+    color: #000;
+    font-family: Inter;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px; /* 100% */
+    text-transform: uppercase;
+}
+.btn{
+    color: black;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 14px; 
+    text-transform: uppercase;
+}
+.header_btn{
+    width: 499px;
+    height: 30px;
+    margin-left: 749px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
